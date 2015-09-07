@@ -1,0 +1,12 @@
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\bin\Debug\WPFHello.exe
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\bin\Debug\WPFHello.pdb
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello.csprojResolveAssemblyReference.cache
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\MainWindow.baml
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\App.g.cs
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello_MarkupCompile.cache
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello.g.resources
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello.Properties.Resources.resources
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello.csproj.GenerateResource.Cache
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello.exe
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\WPFHello - Complete\WPFHello\obj\x86\Debug\WPFHello.pdb

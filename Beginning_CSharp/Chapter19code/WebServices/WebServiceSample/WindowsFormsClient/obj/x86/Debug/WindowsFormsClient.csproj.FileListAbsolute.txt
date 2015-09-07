@@ -1,0 +1,10 @@
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Form1.resources
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.Properties.Resources.resources
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\GenerateResource.read.15978.tlog
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\GenerateResource.write.15978.tlog
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.exe
+C:\begcsharp\WebServices\WebServiceSample\WindowsFormsClient\obj\x86\Debug\WindowsFormsClient.pdb

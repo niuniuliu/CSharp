@@ -1,0 +1,10 @@
+C:\begcsharp\WebApplications\EventRegistrationWeb\EventRegistrationWeb\bin\EventRegistrationWeb.dll
+C:\begcsharp\WebApplications\EventRegistrationWeb\EventRegistrationWeb\bin\EventRegistrationWeb.pdb
+C:\begcsharp\WebApplications\EventRegistrationWeb\EventRegistrationWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\begcsharp\WebApplications\EventRegistrationWeb\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.dll
+C:\begcsharp\WebApplications\EventRegistrationWeb\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.pdb
+C:\begcsharp\DeployingWebApps\EventRegistrationWeb\EventRegistrationWeb\bin\EventRegistrationWeb.dll
+C:\begcsharp\DeployingWebApps\EventRegistrationWeb\EventRegistrationWeb\bin\EventRegistrationWeb.pdb
+C:\begcsharp\DeployingWebApps\EventRegistrationWeb\EventRegistrationWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\begcsharp\DeployingWebApps\EventRegistrationWeb\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.dll
+C:\begcsharp\DeployingWebApps\EventRegistrationWeb\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.pdb

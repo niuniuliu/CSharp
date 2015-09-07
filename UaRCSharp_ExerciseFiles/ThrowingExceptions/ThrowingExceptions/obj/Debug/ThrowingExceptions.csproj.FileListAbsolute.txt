@@ -1,0 +1,6 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ThrowingExceptions\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ThrowingExceptions\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ThrowingExceptions\ThrowingExceptions\bin\Debug\ThrowingExceptions.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ThrowingExceptions\ThrowingExceptions\obj\Debug\ThrowingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ThrowingExceptions\ThrowingExceptions\obj\Debug\ThrowingExceptions.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ThrowingExceptions\ThrowingExceptions\obj\Debug\ThrowingExceptions.pdb

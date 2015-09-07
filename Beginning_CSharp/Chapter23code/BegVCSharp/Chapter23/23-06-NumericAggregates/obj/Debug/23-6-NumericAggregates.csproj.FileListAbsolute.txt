@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-06-NumericAggregates\bin\Debug\23-6-NumericAggregates.exe
+C:\vc2010\BegVCSharp\Chapter23\23-06-NumericAggregates\bin\Debug\23-6-NumericAggregates.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-06-NumericAggregates\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-06-NumericAggregates\obj\Debug\23-6-NumericAggregates.exe
+C:\vc2010\BegVCSharp\Chapter23\23-06-NumericAggregates\obj\Debug\23-6-NumericAggregates.pdb

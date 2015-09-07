@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-04-OrderMethodSyntax\bin\Debug\23-4-OrderMethodSyntax.exe
+C:\vc2010\BegVCSharp\Chapter23\23-04-OrderMethodSyntax\bin\Debug\23-4-OrderMethodSyntax.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-04-OrderMethodSyntax\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-04-OrderMethodSyntax\obj\Debug\23-4-OrderMethodSyntax.exe
+C:\vc2010\BegVCSharp\Chapter23\23-04-OrderMethodSyntax\obj\Debug\23-4-OrderMethodSyntax.pdb

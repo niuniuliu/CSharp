@@ -1,0 +1,9 @@
+c:\users\gerry o'brien\documents\visual studio 2013\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+c:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+c:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+c:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+c:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+c:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

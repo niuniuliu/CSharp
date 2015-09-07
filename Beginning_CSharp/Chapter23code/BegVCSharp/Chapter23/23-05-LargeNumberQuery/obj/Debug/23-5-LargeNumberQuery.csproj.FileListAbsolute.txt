@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-05-LargeNumberQuery\bin\Debug\23-5-LargeNumberQuery.exe
+C:\vc2010\BegVCSharp\Chapter23\23-05-LargeNumberQuery\bin\Debug\23-5-LargeNumberQuery.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-05-LargeNumberQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-05-LargeNumberQuery\obj\Debug\23-5-LargeNumberQuery.exe
+C:\vc2010\BegVCSharp\Chapter23\23-05-LargeNumberQuery\obj\Debug\23-5-LargeNumberQuery.pdb

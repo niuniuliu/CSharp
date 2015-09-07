@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-01-FirstLINQquery\bin\Debug\23-1-FirstLINQquery.exe
+C:\vc2010\BegVCSharp\Chapter23\23-01-FirstLINQquery\bin\Debug\23-1-FirstLINQquery.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-01-FirstLINQquery\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-01-FirstLINQquery\obj\Debug\23-1-FirstLINQquery.exe
+C:\vc2010\BegVCSharp\Chapter23\23-01-FirstLINQquery\obj\Debug\23-1-FirstLINQquery.pdb

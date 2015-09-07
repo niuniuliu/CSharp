@@ -1,0 +1,4 @@
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TextHello - Complete\TextHello\bin\Debug\TextHello.exe
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TextHello - Complete\TextHello\bin\Debug\TextHello.pdb
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TextHello - Complete\TextHello\obj\x86\Debug\TextHello.exe
+C:\Users\Tian\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 1\TextHello - Complete\TextHello\obj\x86\Debug\TextHello.pdb

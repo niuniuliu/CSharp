@@ -1,0 +1,6 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\For_Loop_Solution\For_Loop_Solution\bin\Debug\For_Loop_Solution.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\For_Loop_Solution\For_Loop_Solution\bin\Debug\For_Loop_Solution.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\For_Loop_Solution\For_Loop_Solution\bin\Debug\For_Loop_Solution.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\For_Loop_Solution\For_Loop_Solution\obj\Debug\For_Loop_Solution.csprojResolveAssemblyReference.cache
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\For_Loop_Solution\For_Loop_Solution\obj\Debug\For_Loop_Solution.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\For_Loop_Solution\For_Loop_Solution\obj\Debug\For_Loop_Solution.pdb

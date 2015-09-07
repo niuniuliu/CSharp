@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-09-SelectDistinct\bin\Debug\23-9-SelectDistinct.exe
+C:\vc2010\BegVCSharp\Chapter23\23-09-SelectDistinct\bin\Debug\23-9-SelectDistinct.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-09-SelectDistinct\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-09-SelectDistinct\obj\Debug\23-9-SelectDistinct.exe
+C:\vc2010\BegVCSharp\Chapter23\23-09-SelectDistinct\obj\Debug\23-9-SelectDistinct.pdb

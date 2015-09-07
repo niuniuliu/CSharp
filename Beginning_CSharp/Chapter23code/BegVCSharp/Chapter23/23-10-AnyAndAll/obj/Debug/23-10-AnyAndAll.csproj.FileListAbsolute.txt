@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-10-AnyAndAll\bin\Debug\23-10-AnyAndAll.exe
+C:\vc2010\BegVCSharp\Chapter23\23-10-AnyAndAll\bin\Debug\23-10-AnyAndAll.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-10-AnyAndAll\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-10-AnyAndAll\obj\Debug\23-10-AnyAndAll.exe
+C:\vc2010\BegVCSharp\Chapter23\23-10-AnyAndAll\obj\Debug\23-10-AnyAndAll.pdb

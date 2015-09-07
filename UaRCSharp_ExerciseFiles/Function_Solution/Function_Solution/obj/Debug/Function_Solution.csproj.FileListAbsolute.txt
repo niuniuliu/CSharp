@@ -1,0 +1,5 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Function_Solution\Function_Solution\bin\Debug\Function_Solution.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Function_Solution\Function_Solution\bin\Debug\Function_Solution.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Function_Solution\Function_Solution\bin\Debug\Function_Solution.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Function_Solution\Function_Solution\obj\Debug\Function_Solution.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Function_Solution\Function_Solution\obj\Debug\Function_Solution.pdb

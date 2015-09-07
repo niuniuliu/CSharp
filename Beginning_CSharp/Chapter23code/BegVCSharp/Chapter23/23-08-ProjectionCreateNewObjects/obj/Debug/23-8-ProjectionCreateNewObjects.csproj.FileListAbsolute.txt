@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-08-ProjectionCreateNewObjects\bin\Debug\23-8-ProjectionCreateNewObjects.exe
+C:\vc2010\BegVCSharp\Chapter23\23-08-ProjectionCreateNewObjects\bin\Debug\23-8-ProjectionCreateNewObjects.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-08-ProjectionCreateNewObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-08-ProjectionCreateNewObjects\obj\Debug\23-8-ProjectionCreateNewObjects.exe
+C:\vc2010\BegVCSharp\Chapter23\23-08-ProjectionCreateNewObjects\obj\Debug\23-8-ProjectionCreateNewObjects.pdb

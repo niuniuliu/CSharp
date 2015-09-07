@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-02-LINQMethodSyntax\bin\Debug\23-2-LINQMethodSyntax.exe
+C:\vc2010\BegVCSharp\Chapter23\23-02-LINQMethodSyntax\bin\Debug\23-2-LINQMethodSyntax.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-02-LINQMethodSyntax\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-02-LINQMethodSyntax\obj\Debug\23-2-LINQMethodSyntax.exe
+C:\vc2010\BegVCSharp\Chapter23\23-02-LINQMethodSyntax\obj\Debug\23-2-LINQMethodSyntax.pdb

@@ -1,0 +1,15 @@
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.exe.config
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.exe
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.pdb
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.csprojResolveAssemblyReference.cache
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.exe
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.pdb
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.exe.config
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.exe
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.pdb
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.exe
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.pdb
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.csprojResolveAssemblyReference.cache
+\\car-afp-04.ldcint.com\Production\Projects\Video\Video In Progress\Up and Running with C#\Project\Exercise Files\LanguageElements_CS\LanguageElements_CS\bin\Debug\LanguageElements_CS.exe.config
+\\car-afp-04.ldcint.com\Production\Projects\Video\Video In Progress\Up and Running with C#\Project\Exercise Files\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.exe
+\\car-afp-04.ldcint.com\Production\Projects\Video\Video In Progress\Up and Running with C#\Project\Exercise Files\LanguageElements_CS\LanguageElements_CS\obj\Debug\LanguageElements_CS.pdb

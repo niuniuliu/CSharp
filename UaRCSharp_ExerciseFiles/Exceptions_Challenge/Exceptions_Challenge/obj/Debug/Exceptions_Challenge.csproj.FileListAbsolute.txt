@@ -1,0 +1,6 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Challenge\Exceptions_Challenge\bin\Debug\Exceptions_Challenge.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Challenge\Exceptions_Challenge\bin\Debug\Exceptions_Challenge.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Challenge\Exceptions_Challenge\bin\Debug\Exceptions_Challenge.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Challenge\Exceptions_Challenge\obj\Debug\Exceptions_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Challenge\Exceptions_Challenge\obj\Debug\Exceptions_Challenge.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Challenge\Exceptions_Challenge\obj\Debug\Exceptions_Challenge.pdb

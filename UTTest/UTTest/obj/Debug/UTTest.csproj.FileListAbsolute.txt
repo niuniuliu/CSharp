@@ -1,0 +1,9 @@
+K:\MSTest\CSharp\UTTest\UTTest\bin\Debug\UTTest.dll
+K:\MSTest\CSharp\UTTest\UTTest\bin\Debug\UTTest.pdb
+K:\MSTest\CSharp\UTTest\UTTest\obj\Debug\UTTest.dll
+K:\MSTest\CSharp\UTTest\UTTest\obj\Debug\UTTest.pdb
+\\psf\Home\Projects\MSTest\CSharp\UTTest\UTTest\bin\Debug\UTTest.dll
+\\psf\Home\Projects\MSTest\CSharp\UTTest\UTTest\bin\Debug\UTTest.pdb
+\\psf\Home\Projects\MSTest\CSharp\UTTest\UTTest\obj\Debug\UTTest.csprojResolveAssemblyReference.cache
+\\psf\Home\Projects\MSTest\CSharp\UTTest\UTTest\obj\Debug\UTTest.dll
+\\psf\Home\Projects\MSTest\CSharp\UTTest\UTTest\obj\Debug\UTTest.pdb

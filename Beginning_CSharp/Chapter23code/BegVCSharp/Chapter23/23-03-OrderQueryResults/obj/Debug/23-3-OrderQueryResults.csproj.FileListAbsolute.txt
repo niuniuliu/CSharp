@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-03-OrderQueryResults\bin\Debug\23-3-OrderQueryResults.exe
+C:\vc2010\BegVCSharp\Chapter23\23-03-OrderQueryResults\bin\Debug\23-3-OrderQueryResults.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-03-OrderQueryResults\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-03-OrderQueryResults\obj\Debug\23-3-OrderQueryResults.exe
+C:\vc2010\BegVCSharp\Chapter23\23-03-OrderQueryResults\obj\Debug\23-3-OrderQueryResults.pdb

@@ -1,0 +1,15 @@
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe.config
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.pdb
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.csprojResolveAssemblyReference.cache
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.exe
+C:\Users\gerryo\OneDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.pdb
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe.config
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.exe
+C:\Users\Gerry O'Brien\Documents\Visual Studio 2013\Projects\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\bin\Debug\ExceptionHandling_CS.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\ExceptionHandling_CS\ExceptionHandling_CS\obj\Debug\ExceptionHandling_CS.csprojResolveAssemblyReference.cache

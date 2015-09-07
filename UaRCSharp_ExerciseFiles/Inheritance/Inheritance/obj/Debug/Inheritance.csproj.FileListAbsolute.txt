@@ -1,0 +1,6 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

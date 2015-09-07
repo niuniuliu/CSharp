@@ -1,0 +1,10 @@
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\bin\Debug\WeatherClient.exe.config
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\bin\Debug\WeatherClient.exe
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\bin\Debug\WeatherClient.pdb
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\WeatherClient.Form1.resources
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\WeatherClient.Properties.Resources.resources
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\GenerateResource.read.17679.tlog
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\GenerateResource.write.17679.tlog
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\WeatherClient.exe
+C:\begcsharp\WebServices\WebServiceSample\WeatherClient\obj\x86\Debug\WeatherClient.pdb

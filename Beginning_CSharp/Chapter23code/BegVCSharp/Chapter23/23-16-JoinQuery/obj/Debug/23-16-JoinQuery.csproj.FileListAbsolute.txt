@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-16-JoinQuery\bin\Debug\23-16-JoinQuery.exe
+C:\vc2010\BegVCSharp\Chapter23\23-16-JoinQuery\bin\Debug\23-16-JoinQuery.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-16-JoinQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-16-JoinQuery\obj\Debug\23-16-JoinQuery.exe
+C:\vc2010\BegVCSharp\Chapter23\23-16-JoinQuery\obj\Debug\23-16-JoinQuery.pdb

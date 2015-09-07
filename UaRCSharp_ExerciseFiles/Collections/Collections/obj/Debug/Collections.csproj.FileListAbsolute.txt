@@ -1,0 +1,2 @@
+C:\Users\Gerry\SkyDrive\Documents\Lynda.com\Up and Running with C Sharp\Exercise Files\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Collections\Collections\bin\Debug\Collections.exe.config

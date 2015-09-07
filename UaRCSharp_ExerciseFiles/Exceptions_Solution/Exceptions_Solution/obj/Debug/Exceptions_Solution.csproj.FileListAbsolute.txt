@@ -1,0 +1,6 @@
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Solution\Exceptions_Solution\bin\Debug\Exceptions_Solution.exe.config
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Solution\Exceptions_Solution\bin\Debug\Exceptions_Solution.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Solution\Exceptions_Solution\bin\Debug\Exceptions_Solution.pdb
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Solution\Exceptions_Solution\obj\Debug\Exceptions_Solution.csprojResolveAssemblyReference.cache
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Solution\Exceptions_Solution\obj\Debug\Exceptions_Solution.exe
+C:\Users\Gerry O'Brien\Desktop\Exercise Files\Exceptions_Solution\Exceptions_Solution\obj\Debug\Exceptions_Solution.pdb

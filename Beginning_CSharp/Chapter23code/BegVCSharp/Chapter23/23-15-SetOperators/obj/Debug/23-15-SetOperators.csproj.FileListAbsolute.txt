@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-15-SetOperators\bin\Debug\23-15-SetOperators.exe
+C:\vc2010\BegVCSharp\Chapter23\23-15-SetOperators\bin\Debug\23-15-SetOperators.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-15-SetOperators\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-15-SetOperators\obj\Debug\23-15-SetOperators.exe
+C:\vc2010\BegVCSharp\Chapter23\23-15-SetOperators\obj\Debug\23-15-SetOperators.pdb

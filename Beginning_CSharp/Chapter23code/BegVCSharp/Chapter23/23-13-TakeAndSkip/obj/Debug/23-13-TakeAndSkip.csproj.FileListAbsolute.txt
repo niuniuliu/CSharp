@@ -1,0 +1,5 @@
+C:\vc2010\BegVCSharp\Chapter23\23-13-TakeAndSkip\bin\Debug\23-13-TakeAndSkip.exe
+C:\vc2010\BegVCSharp\Chapter23\23-13-TakeAndSkip\bin\Debug\23-13-TakeAndSkip.pdb
+C:\vc2010\BegVCSharp\Chapter23\23-13-TakeAndSkip\obj\Debug\ResolveAssemblyReference.cache
+C:\vc2010\BegVCSharp\Chapter23\23-13-TakeAndSkip\obj\Debug\23-13-TakeAndSkip.exe
+C:\vc2010\BegVCSharp\Chapter23\23-13-TakeAndSkip\obj\Debug\23-13-TakeAndSkip.pdb
